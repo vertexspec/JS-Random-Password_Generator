@@ -1,6 +1,6 @@
 # 03 Javascript: Random Password Generator
 
-LINK HERE
+https://vertexspec.github.io/JS-Random-Password_Generator/
 
 ## Challenge
 This is my submission for the Week 3 Homework of the Bootcamp where we had to complete the Javascript File linked to a Random Password Generator Website where the user had to the option to choose between 8 - 128 characters and the options to include; Upper Case Letters, Lower Case Letters, Special Characters and Numerical Values and with atleast one of the criteria selected the website generates a password to the users specific selection.
